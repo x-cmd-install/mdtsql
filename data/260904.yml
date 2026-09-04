@@ -7,7 +7,7 @@ about:
   head: 3517904
   archived: false
   latestVersion: v0.2.0
-  collectedAt: 2026-09-04T19:58:08Z
+  collectedAt: 2026-09-04T20:49:00Z
 timeline:
   created: 2020-01-12
   lastCommit: 2026-06-01
@@ -81,6 +81,29 @@ total:
   openIssue: 0
   commit: 95
 ---
+path: /home/runner/.x-repo/github.com/noborus/mdtsql
+collectedAt: 2026-09-04T20:49:01Z
+loc:
+  Go:
+    code: 513
+    comments: 40
+    blanks: 77
+    files: 8
+  Makefile:
+    code: 14
+    comments: 0
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 245
+    blanks: 73
+    files: 5
+total:
+  code: 531
+  comments: 285
+  blanks: 158
+  files: 14
 ---
 date: "2026-08-24"
 repo:
