@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6639794,
       "digest": "sha256:3920142d3932f1a6d3d07e4bf98c8b805b34bf12a15354f5ebdd4a61a9f3b301",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-05-22T06:20:48Z",
       "updated_at": "2026-05-22T06:20:49Z",
       "browser_download_url": "https://github.com/noborus/mdtsql/releases/download/v0.2.0/mdtsql_0.2.0_linux_386.rpm"
