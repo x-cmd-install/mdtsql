@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1523,
       "digest": "sha256:6ea61828089950a5e18948f5bb8afcf94c8e2bcdcc2a28a97352685b3a27c8d1",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-05-22T06:20:49Z",
       "updated_at": "2026-05-22T06:20:49Z",
       "browser_download_url": "https://github.com/noborus/mdtsql/releases/download/v0.2.0/mdtsql.rb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6976824,
       "digest": "sha256:8313426e00317dccbaf8640d4d9b44b29b62e6f41813fb110452cd38c4d688ed",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-05-22T06:20:46Z",
       "updated_at": "2026-05-22T06:20:47Z",
       "browser_download_url": "https://github.com/noborus/mdtsql/releases/download/v0.2.0/mdtsql_0.2.0_Linux_x86_64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7125553,
       "digest": "sha256:b151cad9fce48f10fd1d635124ed4243d803d8fdd6bdec38830fb06e9fc48235",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-05-22T06:20:47Z",
       "updated_at": "2026-05-22T06:20:48Z",
       "browser_download_url": "https://github.com/noborus/mdtsql/releases/download/v0.2.0/mdtsql_0.2.0_Windows_x86_64.zip"
