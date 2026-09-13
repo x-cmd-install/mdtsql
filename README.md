@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-16 | 1 | 7 | 0 | 0 | 0 | 8 |
-| 360d | 2025-09-17 | 1 | 8 | 0 | 0 | 0 | 9 |
-| last720d | 2024-09-22 | 1 | 13 | 0 | 0 | 0 | 30 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 1 | 7 | 0 | 0 | 0 | 8 |
+| 360d | 2025-09-18 | 1 | 8 | 0 | 0 | 0 | 9 |
+| last720d | 2024-09-23 | 1 | 13 | 0 | 0 | 0 | 30 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for mdtsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:39:51Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:58:07Z._
