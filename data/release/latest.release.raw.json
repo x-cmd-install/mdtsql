@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6331299,
       "digest": "sha256:207178713adb51f641a95c414e2c2c04d1e7f0e799bb1baa473bfb5bb1797ae6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-05-22T06:20:49Z",
       "updated_at": "2026-05-22T06:20:50Z",
       "browser_download_url": "https://github.com/noborus/mdtsql/releases/download/v0.2.0/mdtsql_0.2.0_linux_arm64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 6976824,
       "digest": "sha256:8313426e00317dccbaf8640d4d9b44b29b62e6f41813fb110452cd38c4d688ed",
-      "download_count": 43,
+      "download_count": 44,
       "created_at": "2026-05-22T06:20:46Z",
       "updated_at": "2026-05-22T06:20:47Z",
       "browser_download_url": "https://github.com/noborus/mdtsql/releases/download/v0.2.0/mdtsql_0.2.0_Linux_x86_64.tar.gz"
