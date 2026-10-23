@@ -1,0 +1,56 @@
+- repo: nix_stable_25_05
+  srcname: mdtsql
+  visiblename: mdtsql
+  version: 0.1.0
+  origversion: null
+  status: outdated
+  summary: Execute SQL to markdown table and convert to other format
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
+- repo: aur
+  srcname: mdtsql-bin
+  binname: mdtsql-bin
+  visiblename: mdtsql-bin
+  version: 0.2.0
+  origversion: 0.2.0-1
+  status: newest
+  summary: Execute SQL to markdown table and convert to other formats
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: mdtsql
+  visiblename: mdtsql
+  version: 0.1.0
+  origversion: null
+  status: outdated
+  summary: Execute SQL to markdown table and convert to other format
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: mdtsql
+  visiblename: mdtsql
+  version: 0.1.0
+  origversion: null
+  status: outdated
+  summary: Execute SQL to markdown table and convert to other format
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: mdtsql
+  visiblename: mdtsql
+  version: 0.2.0
+  origversion: null
+  status: newest
+  summary: Execute SQL to markdown table and convert to other format
+  maintainers:
+    - xiaoxiangmoe@gmail.com
+  licenses:
+    - MIT
