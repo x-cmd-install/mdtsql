@@ -22,6 +22,16 @@ Total: **527** lines of code across **14** files in the top 5 languages.
 | Makefile | 14 | 0 | 7 | 1 |
 | Markdown | 0 | 245 | 73 | 5 |
 
+## OpenSSF Scorecard
+
+Overall score: **3 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/12 approved changesets -- score normalized to 0
+- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+
 ## Source
 
 - **Upstream**: <https://github.com/noborus/mdtsql>
@@ -45,12 +55,12 @@ Total: **527** lines of code across **14** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-12 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-13 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-15 | 1 | 5 | 0 | 0 | 0 | 6 |
-| 360d | 2025-11-16 | 1 | 9 | 0 | 0 | 0 | 10 |
-| last720d | 2024-11-21 | 1 | 14 | 0 | 0 | 0 | 32 |
+| 30d | 2026-10-13 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-13 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-14 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-16 | 1 | 5 | 0 | 0 | 0 | 6 |
+| 360d | 2025-11-17 | 1 | 9 | 0 | 0 | 0 | 10 |
+| last720d | 2024-11-22 | 1 | 14 | 0 | 0 | 0 | 32 |
 
 ## Release assets
 
@@ -89,4 +99,4 @@ Install metadata for mdtsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:35:07Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:38:56Z._
